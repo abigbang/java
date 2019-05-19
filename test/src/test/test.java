@@ -3,7 +3,7 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
-/////
+////////
 public class test extends JFrame {
 //定义组件
 	public static void main(String[] args) {
